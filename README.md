@@ -7,6 +7,7 @@ Interactive profile card with a button and effects
 - HTML
 - CSS
 - JavaScript
+- VS Code
 
 ## Resources
 https://www.geeksforgeeks.org/how-to-create-responsive-profile-card-using-html-and-css/
